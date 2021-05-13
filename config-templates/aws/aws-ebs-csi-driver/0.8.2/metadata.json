@@ -12,19 +12,19 @@
       "value": "aws-ebs-csi-driver"
     },
     {
-      "key": "provider-url",
+      "name": "provider-url",
       "value": "https://console.aws.amazon.com/support/home#/"
     },
     {
-      "key": "support-msg",
+      "name": "support-msg",
       "value": "For support contact AWS"
     },
     {
       "name": "provider-logo",
-      "value": "/aws-ebs-logo"
+      "value": "logo/aws-ebs-csi-driver.png"
     },
     {
-      "key": "supported-envs",
+      "name": "supported-envs",
       "value": "AWS"
     },
     {

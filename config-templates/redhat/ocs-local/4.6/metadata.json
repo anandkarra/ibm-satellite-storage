@@ -1,15 +1,15 @@
 {
   "name": "4.6",
   "enabled": "true",
-  "description": "OCS template for openshift 4.6 (Local devices)",
+  "description": "OCS template for openshift 4.6 (Local storage)",
   "tags": [
     {
       "name": "provider",
       "value": "redhat"
     },
     {
-      "name": "log-image",
-      "value": "/ocs-logo"
+      "name": "provider-logo",
+      "value": "logo/ocs-local.png"
     },
     {
       "name": "kube-version",
